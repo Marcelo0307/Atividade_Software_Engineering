@@ -1,0 +1,13 @@
+{
+  "name": "trabalho-ia-software-engineering",
+  "version": "1.0.0",
+  "description": "Projeto para demonstrar o uso de IA no desenvolvimento de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
